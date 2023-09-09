@@ -1,3 +1,15 @@
+touch 1.txt
+
+nano 1.txt
+
+#############################
+
+git clone https://github.com/ophigeni/selenium-ran
+git clone https://github.com/ophigeni/selenium-borunaga
+git clone https://github.com/ophigeni/selenium-campuran
+
+#############################
+
 cp selenium-ran/* tests/
 cp selenium-borunaga/* tests/
 cp selenium-campuran/* tests/
