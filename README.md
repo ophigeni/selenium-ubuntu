@@ -8,4 +8,8 @@ go to instalation repo: https://github.com/ophigeni/selenium-ubuntu/blob/main/in
 
 docker run --rm -ti ophigeni/selenium-ubuntu:20.04
 
+docker run --rm -ti ophigeni/selenium-ubuntu:22.04
+
+docker run --rm -ti ophigeni/selenium-ubuntu:23.04
+
 go to instalation2 repo: https://github.com/ophigeni/selenium-ubuntu/blob/main/instalation2
