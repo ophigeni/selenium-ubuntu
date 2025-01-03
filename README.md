@@ -13,3 +13,14 @@ docker run --rm -ti ophigeni/selenium-ubuntu:22.04
 docker run --rm -ti ophigeni/selenium-ubuntu:23.04
 
 go to instalation2 repo: https://github.com/ophigeni/selenium-ubuntu/blob/main/instalation2
+
+# execute
+
+bash 1.txt
+
+
+
+
+
+
+
