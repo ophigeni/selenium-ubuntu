@@ -4,12 +4,14 @@ nano 1.txt
 
 #############################
 
+git clone https://github.com/ophigeni/docker-raw-selenium
 git clone https://github.com/ophigeni/selenium-ran
 git clone https://github.com/ophigeni/selenium-borunaga
 git clone https://github.com/ophigeni/selenium-campuran
 
 #############################
 
+cp docker-raw-selenium/* tests/
 cp selenium-ran/* tests/
 cp selenium-borunaga/* tests/
 cp selenium-campuran/* tests/
